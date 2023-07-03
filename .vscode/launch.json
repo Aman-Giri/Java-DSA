@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.Swap",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalArrayList",
+            "request": "launch",
+            "mainClass": "Arrays.Code.MultiDimensionalArrayList",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListinput",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArrayListinput",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArrayListExample",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
+            "name": "ArraywithColnotfixed",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArraywithColnotfixed",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArray",
+            "request": "launch",
+            "mainClass": "Arrays.MultidimensionalArray",
+            "projectName": "Java-DSA_ce0398b1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
