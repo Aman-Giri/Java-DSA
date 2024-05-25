@@ -6,7 +6,10 @@ import java.util.Scanner;
 public class ArrayListinput {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        ArrayList<Integer> list = new ArrayList<Integer>(5);
+        System.out.println("Enter the number of elements you want in your arraylist");
+        int noofElements = in.nextInt();
+
+        ArrayList<Integer> list = new ArrayList<Integer>(noofElements);
 
         System.out.println("Enter the values for the ArrayList: ");
 
@@ -14,7 +17,7 @@ public class ArrayListinput {
             list.add(in.nextInt());
         }
 
-        for(int i=0;i<5;i++){
+        for(int i=0;i<noofElements;i++){
             System.out.println("The list is: "+ list.get(i));
           
         }

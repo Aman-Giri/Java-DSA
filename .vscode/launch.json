@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.ReverseArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MaxinArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.MaxinArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListinput",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArrayListinput",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ALInput",
+            "request": "launch",
+            "mainClass": "Arrays.JustforPractice.ALInput",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MultiALExample",
+            "request": "launch",
+            "mainClass": "Arrays.JustforPractice.MultiALExample",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalArrayList",
+            "request": "launch",
+            "mainClass": "Arrays.Code.MultiDimensionalArrayList",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArrayColisnotfixed",
+            "request": "launch",
+            "mainClass": "Arrays.JustforPractice.MultidimensionalArrayColisnotfixed",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArray",
+            "request": "launch",
+            "mainClass": "Arrays.JustforPractice.MultidimensionalArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArray",
+            "request": "launch",
+            "mainClass": "Arrays.Code.MultidimensionalArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ArraysofObject",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArraysofObject",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ArraysExample",
+            "request": "launch",
+            "mainClass": "Arrays.Code.ArraysExample",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.Swap",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "Swap",
             "request": "launch",
             "mainClass": "Arrays.Arrays_Questions.Swap",

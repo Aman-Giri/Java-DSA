@@ -3,7 +3,7 @@ package Arrays.Code;
 public class ArraysExample {
     public static void main(String[] args) {
         String name = "Aman Giri";
-        String name1 = "sunny";
+        String name1 = "Mukul";
 
         int roll1 = 23;
         int roll2 = 33;
