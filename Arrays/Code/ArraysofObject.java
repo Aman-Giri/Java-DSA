@@ -19,12 +19,12 @@ public class ArraysofObject {
         //     System.out.println("the elements of the array: " + Arrays.toString(arr));
         // }
 
-    
 
         //Printing the elements of the object array in the String format 
          System.out.println("the elements of the array: " + Arrays.toString(arr));
          changeelement(arr);
          System.out.println("the elements of the array: " + Arrays.toString(arr));
+        
         
     }
 

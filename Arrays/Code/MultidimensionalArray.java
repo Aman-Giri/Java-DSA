@@ -16,6 +16,7 @@ public class MultidimensionalArray {
                             {3,4},// 1-index
                             {4,5,4}// 2-index
                     };
+        
         /*
          * Note:
          * 1. While declaring the 2d array if we will not give number of columns then also its fine bcz 

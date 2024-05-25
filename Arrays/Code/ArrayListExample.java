@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class ArrayListExample {
     public static void main(String[] args) {
+        //ArrayList is a class which implements list interface
         ArrayList<Integer> list = new ArrayList<Integer>();
 
         //adding the integers in the list
