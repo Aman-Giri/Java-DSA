@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BruteforceApproach",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.RichestCustomerWealth.BruteforceApproach",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "SumofRunningArrays",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.SumofRunningArrays",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ArraysConcatenation",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.ArraysConcatenation",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "BuildArrayfromPermutation",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.BuildArrayfromPermutation",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "ReverseArray",
             "request": "launch",
             "mainClass": "Arrays.Arrays_Questions.ReverseArray",
