@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchinString",
+            "request": "launch",
+            "mainClass": "LinearSearch.SearchinString",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "SearchingbyLinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch.SearchingbyLinearSearch",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleArray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.ShuffleArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "BruteforceApproach",
             "request": "launch",
             "mainClass": "Arrays.Arrays_Questions.RichestCustomerWealth.BruteforceApproach",
