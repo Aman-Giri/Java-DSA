@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Searchin2DArray",
+            "request": "launch",
+            "mainClass": "LinearSearch.Searchin2DArray",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "findMin",
+            "request": "launch",
+            "mainClass": "LinearSearch.findMin",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
+            "name": "SearchinRange",
+            "request": "launch",
+            "mainClass": "LinearSearch.SearchinRange",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "SearchinString",
             "request": "launch",
             "mainClass": "LinearSearch.SearchinString",
