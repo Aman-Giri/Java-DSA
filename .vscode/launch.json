@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindNumberswithEvenNumberofDigits",
+            "request": "launch",
+            "mainClass": "LinearSearch.FindNumberswithEvenNumberofDigits",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "Searchin2DArray",
             "request": "launch",
             "mainClass": "LinearSearch.Searchin2DArray",
