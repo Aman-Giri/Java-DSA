@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmallerthancurrentNumber",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays_Questions.SmallerthancurrentNumber",
+            "projectName": "Java-DSA_ca78163a"
+        },
+        {
+            "type": "java",
             "name": "FindNumberswithEvenNumberofDigits",
             "request": "launch",
             "mainClass": "LinearSearch.FindNumberswithEvenNumberofDigits",
