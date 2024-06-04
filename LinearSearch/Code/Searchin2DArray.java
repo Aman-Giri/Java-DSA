@@ -19,7 +19,7 @@ public class Searchin2DArray {
         System.out.println("Maximum in the 2d array: " + findmax(arr));
     }
 
-    //Search the target in the 2d array
+    //Search the target in the 2d array and return the index
     public static int[] search(int[][] arr, int target){
         for(int row=0;row<arr.length;row++){
             for(int col=0;col<arr[row].length;col++){
